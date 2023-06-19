@@ -1,0 +1,9 @@
+TOKEN = "5929439884:AAEFGgEfpC7fn1ZCtIMTZ3GgjpdyHPIDKkg"
+password = "pglhdt0v94"
+user = "gen_user"
+host = "212.113.123.45"
+name = "default_db"
+OpenAITOKEN = "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"
+google_ip_key = "AIzaSyBeAKbZE5K1yZszqGIhs-uSnw5vDgBATGc"
+FOLDER_ID = '1bGol14FPiL4fSjKXeXjIF3qDvf_7vqpD'
+DESTINATION_FOLDER = 'photos'
