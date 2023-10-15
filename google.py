@@ -650,7 +650,7 @@ async def bot_worker(message: types.Message):
                                reply_markup=keyboard)
 
     # image generation
-    elif "Achtung, Achtung, die deutsche Soldaten, eine freundlichste Nachricht, die russischen Panzerkampfwagen marschieren nach Berlin." == message.text and message.from_user.id == 842949149:
+    elif "Генерация эскиза" == message.text:
         loadData()
         if flags[str(message.from_user.id)]['images'] < 10 or message.from_user.id == 842949149:
 
